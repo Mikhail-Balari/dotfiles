@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = balarimikhail@gmail.com
+	name = Mikhail Balari
